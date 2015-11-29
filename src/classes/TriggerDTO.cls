@@ -2,7 +2,7 @@
 * Copyright (c) 2015, innovativeSaaS.com
 * This software may be modified and distributed under the terms of the MIT license.
 *
-* @description Sample Class to help with file header
+* @description Trigger data transfer object
 * @author innovativeSaaS.com
 * @since 2015
 * @api 35.0

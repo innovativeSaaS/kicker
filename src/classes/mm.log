@@ -42,3 +42,41 @@ Starting new HTTPS connection (1): na22.salesforce.com
 Starting new HTTPS connection (1): na22.salesforce.com
 Starting new HTTPS connection (1): na22.salesforce.com
 Starting new HTTPS connection (1): na22.salesforce.com
+<?xml version="1.0" encoding="UTF-8"?>
+<SOAP-ENV:Envelope xmlns:ns0="urn:partner.soap.sforce.com" xmlns:ns1="http://schemas.xmlsoap.org/soap/envelope/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:tns="urn:partner.soap.sforce.com" xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/">
+   <SOAP-ENV:Header>
+      <tns:SessionHeader>
+         <tns:sessionId>00D15000000EPK0!AQcAQD0shXW6yZ_6CfWOv4Nk2o.tOi0z2XxVsH_ruXlCsuDK_eOBBFLLskvrd6aTrkZW7NbtaUUxg4Kuqsjjq24cf0K6djn9</tns:sessionId>
+      </tns:SessionHeader>
+   </SOAP-ENV:Header>
+   <ns1:Body>
+      <ns0:getUserInfo/>
+   </ns1:Body>
+</SOAP-ENV:Envelope>
+Starting new HTTPS connection (1): na22.salesforce.com
+Starting new HTTPS connection (1): na22.salesforce.com
+Starting new HTTPS connection (1): na22.salesforce.com
+Starting new HTTPS connection (1): na22.salesforce.com
+Starting new HTTPS connection (1): na22.salesforce.com
+Starting new HTTPS connection (1): na22.salesforce.com
+Starting new HTTPS connection (1): na22.salesforce.com
+Starting new HTTPS connection (1): na22.salesforce.com
+Starting new HTTPS connection (1): na22.salesforce.com
+Starting new HTTPS connection (1): na22.salesforce.com
+Starting new HTTPS connection (1): na22.salesforce.com
+Starting new HTTPS connection (1): na22.salesforce.com
+Starting new HTTPS connection (1): na22.salesforce.com
+Starting new HTTPS connection (1): na22.salesforce.com
+Starting new HTTPS connection (1): na22.salesforce.com
+Starting new HTTPS connection (1): na22.salesforce.com
+<?xml version="1.0" encoding="UTF-8"?>
+<SOAP-ENV:Envelope xmlns:ns0="urn:partner.soap.sforce.com" xmlns:ns1="http://schemas.xmlsoap.org/soap/envelope/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:tns="urn:partner.soap.sforce.com" xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/">
+   <SOAP-ENV:Header>
+      <tns:SessionHeader>
+         <tns:sessionId>00D15000000EPK0!AQcAQCbScEH_tFpTIWxsiqbC0ZetvNih2nnZVe4hxeBLxd_5Sb8n4pDIMPTFN3_llKL.S6SaucrL9sQm_ApWArR8.P9NhLZH</tns:sessionId>
+      </tns:SessionHeader>
+   </SOAP-ENV:Header>
+   <ns1:Body>
+      <ns0:getUserInfo/>
+   </ns1:Body>
+</SOAP-ENV:Envelope>
